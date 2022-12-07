@@ -1,0 +1,417 @@
+hi|hey|hello,
+ Hello,
+
+WELCOME TO SRU BOT !
+
+ THIS ARE THE SERVICES WE PROVIDE
+     1. ABOUT
+     2. ACADEMICS
+     3. ADMISSIONS
+     4. RESEARCH
+     5. CAREERS
+     6. PLACEMENTS
+     7. CAMPUS LIFE
+     8. SRIX
+     9. CONTACT OR VISIT US
+     10. SRAAP [ ATTENDANCE PORTEL ]
+     11.SOCIAL MEDIA
+     12.NEWS
+     13.NIRF
+     14.UGC
+     15.EAMCET CODE
+     16.LOCATION
+     17. VISION
+     18. LEADERSHIP(only few)
+     19. BOARD OF ADVISORS(only few)
+     20. AWARDS AND RECOGNIZATION(only few)
+     21 HOLIDAYS LIST
+     22 EXAM BRANCH
+     23 ALUMINI
+     24.WEBLOGIN
+     25.COURSES
+     26.PHD PROGRAMS
+     27.quit (TO EXIT)
+     THIS IS THE UNIVERSITY OFFICAL WEBSITE https://sru.edu.in/ \n PLEASE USE THE ABOVE  SERVICES ,IF YOU TYPE OUT OF SERVICES -WE CANT HELP YOU,WE REPLY  (NONE) ",
+How are you doing ?|how are you ?,
+I'm doing great.,
+ fine|i am fine,
+ that's great,
+ who created you? |who made you? ,
+  Saiganesh,Harshith,karthik,manindhar',
+                  
+
+     
+
+  1. ABOUT,
+      Sri Rajeshwara Educational Society, the parent body of SR University is a 45-year-old conglomerate of educational institutions with more than 90,000 students and 10,000 teaching and non-teaching staff members. SR Educational Academy governs 95 Educational Institutions across Telangana and Andhra Pradesh.
+
+  The goal of SR University is to create an innovative learning educational ecosystem whose graduates significantly contribute to the growth of Telangana and India. We plan to transform the educational system through three key differentiators.
+   
+  VISIT THIS FOR MORE INFORMATION \nhttps://sru.edu.in/about,
+ 
+  2. ACADEMICS
+
+    2.1 SCHOOLS
+    2.2 CENTERS
+
+
+    2.1 SCHOOLS,
+                2.1.1 SCHOOL OF COMPUTER SCIENCE AND ARTIFICAL INTELLIGENCE
+                2.1.2 SCHOOL OF ENGINEERING
+                2.1.3 SCHOOL OF BUSINESSS
+                2.1.4 SCHOOL OF SCIENCE
+                2.1.5 SCHOOL OF AGRICULTURE
+   
+       2.1.1 SCHOOL OF COMPUTER SCIENCE AND ARTIFICAL INTELLIGENCE
+
+             Through a partnership with one of the world’s biggest tech companies, SR University’s cutting-edge programs have been designed with a blend of pragmatic and theoretical concepts that build a firm foundation for students in the core areas of Computer Science & Artificial Intelligence.
+
+             VISIT THIS  FOR MORE INFORMATION \nhttps://sru.edu.in/schools/school-of-cse-ai
+     
+       2.1.2 SCHOOL OF ENGINEERING
+             
+             An engineering degree is a stepping stone for the best high-paying, fast-growing career. It opens doors to a diverse range of employment opportunities pushing technological frontiers, creating innovative solutions, and making the world a better place.
+              
+             VISIT THIS FOR MORE INFORMATION \nhttps://sru.edu.in/schools/school-of-engineering
+
+       2.1.3 SCHOOL OF BUSINESSS
+    
+             The School of Business equips students with a bedrock of management skills to navigate today's complex business environment. A dynamic curriculum designed in conjunction with academic and industry practitioners provides them with opportunities to master new skills and explore varied perspectives.
+
+             VISIT THIS FOR MORE INFORMATION  \nhttps://sru.edu.in/schools/business-innovation-entrepreneurship
+
+       2.1.4 SCHOOL OF SCIENCE
+
+             The School of Sciences is multi-disciplinary in nature with faculty belonging to different disciplines: Mathematics, Physics, Chemistry, Psychology, Cognitive Science and Environmental Sciences. Programs offered here focus on building a groundwork for excellence among scholars and academics.
+
+             VISIT THIS  FOR INFORMATION \nhttps://sru.edu.in/schools/school-of-sciences
+
+       2.1.5 SCHOOL OF AGRICULTURE
+
+             Agriculture is the backbone of the Indian economy. Graduates of SRU’s Agriculture program will have technical knowledge in crop raising, effective use of fertilizers, integrated pest management, seed conditioning and smart technology. The graduates are also exposed to livestock management. The course balances theoretical aspects with practical issues such as agroeconomics, smart food processing technologies, and crop management.
+
+             VISIT THIS FOR MORE INFORMATION \nhttps://sru.edu.in/schools/school-of-agriculture
+
+
+    2.2 CENTERS
+             2.2.1 NEST FOR ENTERPRENEURSHIP IN SCIENCE AND TECHNOLOGY
+             2.2.2 CENTER FOR CREATIVE COGNITIVE 
+             2.2.3 CNTER FOR DESIGN
+             2.2.4 CENTER FOR EMBEDDED SYSTEM AND IOT
+             2.2.5 CENTER FOR AL AND DEEP LEARNING
+             2.2.6 COLLABORATORY FOR SOCIAL INNOVATION
+             2.2.7 CENTER OF MATERIALS AND MANUFACTURING
+             2.2.8 CENTER FOR EMERGING ENERGY TECHNOLOGIES
+             2.2.9 CENTER FOR CONSTRUCTION METHODS AND MATERIALS
+             2.2.10 CENTER FOR EXPERIENTIAL LEARNING
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+       2.2.1 NEST FOR ENTERPRENEURSHIP IN SCIENCE AND TECHNOLOGY
+             VISIT THIS \nhttps://sru.edu.in/centers/nest/
+ 
+       2.2.2 CENTER FOR CREATIVE COGNITIVE 
+            VISIT THIS \nhttps://sru.edu.in/centers/ccc/
+
+       2.2.3 CNTER FOR DESIGN
+             VISIT THIS \nhttps://sru.edu.in/centers/cd/
+
+       2.2.4 CENTER FOR EMBEDDED SYSTEM AND IOT
+             VISIT THIS \nhttps://sru.edu.in/centers/iot/
+
+       2.2.5 CENTER FOR AL AND DEEP LEARNING
+             VISIT THIS \nhttps://sru.edu.in/centers/caidl/
+
+       2.2.6 COLLABORATORY FOR SOCIAL INNOVATION 
+             VISIT THIS \nhttps://sru.edu.in/centers/csi/
+
+       2.2.7 CENTER OF MATERIALS AND MANUFACTURING
+             VISIT THIS \nhttps://sru.edu.in/centers/cmm/
+
+       2.2.8 CENTER FOR EMERGING ENERGY TECHNOLOGIES
+             VISIT THIS \nhttps://sru.edu.in/centers/ceet/
+
+       2.2.9 CENTER FOR CONSTRUCTION METHODS AND MATERIALS
+             VISIT THIS \nhttps://sru.edu.in/centers/ccmm/
+        
+       2.2.10 CENTER FOR EXPERIENTIAL LEARNING
+              VISIT THIS \nhttps://sru.edu.in/centers/cel/
+
+
+   3. ADMISSIONS
+       3.1  APPLY ONLINE
+       3.2  PROGRAMS / COURSES
+       3.3  FEE AND SCHOLARSHIP
+   
+   
+
+       3.1 APPLY ONLINE
+           VISIT THIS \nhttps://sru.edu.in/sruadmissions  
+      
+       3.2 PROGRAMS / COURSES 
+           VISIT THIS \nhttps://sru.edu.in/programs-2021
+      
+       3.3 FEE AND SCHOLARSHIP
+           VISIT THIS \nhttps://sru.edu.in/fee-and-scholarship-2022
+
+
+   4. RESEARCH
+             4.1 SPONSORED RESEARCH 
+             4.2 RESEARCH CENTERS
+             4.3 PATENTS
+             4.4 BOOKS
+
+
+
+      4.1 SPONSORED RESEARCH 
+
+      S.No.	Investigator Name	Title of the Project	                                                  Sponsoring Agency	Period
+       1	Dr. V. Mahesh	        Understanding Design Fixation in Indian Engineering Students	              DST - CSRI	2012 - 2015
+       2	V. Haripriya	        Synthesis and Antimicrobial Assay of Some New Derivatives of Quinoxalines     DST               2012 - 2015
+   
+      VISIT THIS FOR MORE INFORMATION  \n
+ https://sru.edu.in/Research-Spotlite
+
+
+     4.2 RESEARCH CENTERS
+         VISIT THIS 
+ https://sru.edu.in/centers/nest/
+
+     4.3 PATENTS
+     
+      S.No.	Patent Appliaction No.	 Title of Patent
+        1	201941012760 A	         Silica Based Binder Composition For Soil Stabilization And Enhancing Pavement Load Bearing Capacity Of Roads
+        2	201841036063 A	         A Device for Detecting Synthetic Food Ingredients
+      
+        VISIT FOR MORE INFORMATION 
+ https://sru.edu.in/patents
+
+     4.4 BOOKS
+
+     S.No.	Name of the Author	Title of the Book	               Publisher	   ISBN/DOI
+      1.	Dr.V.Malathy	      Linear Integrated Circuits	Charulatha Publishers	  978-93-88335-42-3
+      2.	Dr.V.Malathy	      Transmission Lines and RF System	Charulatha Publications   978-93-89736-52-6
+  
+      VISIT FOR MORE INFORMATION 
+ https://sru.edu.in/books
+
+   5. CAREERS
+      
+      IT IS ABOUT THE COLLEGE BASED POSTS OF APPLICATIONS AND NOTICES
+      
+      VISIT THIS FOR MORE INFORMTION 
+ https://sru.edu.in/careers
+
+   6. PLACEMENTS
+      VISIT THIS FOR GENRAL INFORMATION 
+ https://sru.edu.in/placement
+      VISIT THIS FOR MORE INFORMATION 
+ https://sru.edu.in/placements-drive
+
+
+   7. CAMPUS LIFE
+         7.1 SPORTS AND HOSTELS
+     7.1 SPORTS AND HOSTELS
+
+                     INFORMATION TO KNOW 
+ 
+         SPORTS WE ENCORAGE                HOSTEL FACILITIES
+
+         * CRICKET                         * COMFY AND STYLISH
+         * BASKET BALL                     * TASTY & HEALTHY
+         * FOOTBALL                        * SAFE & SECURE
+         * THROW BALL                      * HEALTH & WELLNESS
+         * KHO KHO                         * SMART & CONNECTED
+         * KABADDI                         * PICTURESQUE SERENE
+         * TABLE TENNIS
+         * BADMINTON
+         * VOLLEY BALL
+         * CHESS
+         * CARROMS
+
+         VISIT THIS FOR MORE INFORMATION 
+ https://sru.edu.in/Campuslife
+ 
+
+   8. SRIX
+
+      SRiX is the Technology Business Incubator - TBI of SR University, Telangana.
+
+      We nurture startup ideas and technology innovations from their idea stage, provide the resources required to build products and find customer acceptance. We also support the startups to gear for growth through access to global partners and investors.
+
+      SRiX brings entrepreneurs, mentors, researchers, and academicians together to create an inspiring ecosystem to transform ideas into actions. The deep interaction between the theory and practice of entrepreneurship brings the best out of both, creating unique synergies.
+
+      SRiX intends to be an active catalyst for the growth of Telanganas startup eco-system. We are an open incubator that welcomes entrepreneurs from all over the country.
+
+      Be a part of our network to participate in stimulating conversations, innovative thinking, and forward-looking startups. Together, let us ignite the spark of new ideas and ventures.
+
+
+      OFFICAL WEBSITE OF SIRX 
+ https://www.srix.in/ 
+
+ 
+   9. CONTACT OR VISIT US 
+
+       SR University
+
+       Ananthasagar, Hasanparthy,
+       Warangal Urban 506371
+       Telangana, India
+
+       0(870) 281-8333/8311
+
+       Admission Helpline No.
+
+       Tel : 0(870) 281-8333/8311,
+       +91 8331003030.
+
+       +91 8331004040
+
+       info@sru.edu.in
+
+       Request For Call : : 
+        +91 7893577877
+
+
+
+  10. SRAAP
+      
+      THIS IS USED BY THE STAFF AND STUDENTS OF SRU
+    
+      OFFICIAL WEBSITE  http://103.65.202.101/sraap/
+      
+  11.social media
+          11.1 Facebook|FACEBOOK
+          11.2 instagram|INSTAGRAM
+          11.3 linkedin|LINKEDIN
+          11.4 whatsapp|WHATSAPP
+          11.5 twitter|TWITTER
+          
+       11.1 FACEBOOK   
+           QUICK CONNECT WITH FACEBOOK ,TRY TO VISIT ->
+ https://www.facebook.com/sruniversityindia
+       11.2 instagram|INSTAGRAM
+               QUICK CONNECT WITH INSTAGRAM ,TRY TO VISIT ->
+ https://www.instagram.com/sr_university/
+       11.3 linkedin|LINKEDIN
+               QUICK CONNECT WITH LINKEDIN ,TRY TO VISIT ->
+ https://www.linkedin.com/company/sr-university/?originalSubdomain=in
+       11.4 whatsapp|WHATSAPP
+           QUICK CONNECT WITH WHATSAPP,TRY TO VISIT ->
+ https://api.whatsapp.com/send/?phone=918331004040&text&app_absent=0
+       11.5 twitter|TWITTER
+           QUICK CONNECT WITH  TWITTER,TRY TO VISIT ->
+ https://twitter.com/sr_university
+          
+          
+          
+    12.NEWS
+        VISIT THIS LINK FOR NEWS ABOUT SRU->
+ https://sru.edu.in/news
+     13.NIRF
+         13.1NIRF OVERALL
+         13.2 NIRF ENGINEERING
+         
+         
+         13.1 NIRF OVERALL
+                DOWNLOAD  THIS PDF FOR NIRF ABOUT SRU->
+ https://sru.edu.in/assets/pdf/SR-University-2022-02-28-Overall.pdf
+         13.2 NIRF ENGINEERING
+           DOWNLOAD  THIS PDF FOR NIRF ABOUT SRU->https://sru.edu.in/assets/pdf/SR-University-2022-02-28-Engineering.pdf
+         
+          VISIT THIS LINK FOR NIRF ABOUT SRU->https://sru.edu.in/nirf
+     14.UGC
+          DOWNLOAD  THIS PDF FOR UGC ABOUT SRU->https://sru.edu.in/assets/pdf/UGC-Form.pdf
+     15.EAMCET CODE
+             SRHP
+             TUTION FEE RS:1,15,000
+      16.LOCATION
+              CLICK THE LINK TO FIND THE LOCATION OF SRU https://www.google.com/maps/place/SR+University/@18.0889656,79.468675,15z/data=!4m5!3m4!1s0x0:0x7f4dea9a0d18958b!8m2!3d18.0889656!4d79.468675
+              
+     17 VISION
+       17.1 REGIONAL ECOSYSTEM
+       17.2 ACADEMIC EXCELLENCE
+       17.3 INDUSTRY RELEVANCE
+       17.4 SOCIAL RESPONSIBITY
+                        17.1 REGINONAL ECOSYSTEM
+                            Tri-city area of Warangal-Hanamkonda-Kazipet is a highly developed, economically active part of Telangana.
+                            Warangal stands to become a significant player in the regional and state development - a potential hub for services sector (IT, ITeS, Tourism and Hospitality, and Textiles and Food processing).
+                            IT SEZ, Cyient, Tech Mahindra, Quadrant Resource, Kakatiya Mega Textile Park and Smart City initiatives are significant movers that have helped the area to develop rapidly.
+              FOR MORE INFORMATION VISIT:https://sru.edu.in/about#vision
+                            
+                                
+                           17.2 ACADEMIC EXCELLENCE
+                               SRU provides advanced inter - disciplinary education with affordable fee structures.
+                               SRU has partnered with many institutions to further improve the teaching and learning process, increase research output, and create experiential opportunities.
+                               FOR MORE INFORMATION VISIT:https://sru.edu.in/about#vision
+                           
+                           17.3 INDUSTRY RELEVANCE
+                               SRU has been changing the landscape of education in Warangal and Telangana by bringing industry relevant courses and programs, while also inducing a start-up culture.
+                               To be industry relevant, SRU introduced several new courses, professional tracks, centers of excellence, workshops of practice, and internship opportunities in collaboration with the industry.
+
+FOR MORE INFORMATION VISIT:https://sru.edu.in/about#vision
+                           
+                               17.4 SOCIAL RESPONSIBITY
+                                   To be socially responsible, SRU has initiated several curricular (social innovation professional track) and extracurricular activities through collaborative partnerships with NGOs
+                               University status allows us to create :
+                                1) Relevant programs to promote regional ecosystem such as agriculture and horticulture majors
+                        2) Social immersion programs for credit
+                        3) Experiential learning, continuing education and vocational training opportunities to everyone
+   FOR MORE INFORMATION VISIT:https://sru.edu.in/about#vision
+      18.0 LEADERSHIP
+            18.1 Sri A. Varada Reddy (Chancellor)
+            18.2 Prof. G.R.C Reddy (Vice Chancellor)
+            18.3 Dr. R. Archana Reddy (Registrar)
+            18.4 Dr C. V. Guru Rao Ph.D IIT ( Kharagpur ) Dean School of Computer Science & Artificial Intelligence
+            1.3.5 Col B S Rao (CEO  of SR Innovation Exchange(SRiX))
+             FOR MORE INFORMATION VISIT:https://sru.edu.in/about#leadership
+      
+      19 BOARD OF ADVISORS
+              19.1 sri jayesh Ranjhan (PRINCIPAL SECRETARY AT STATE GOVT TELANGANA IN IT DEPT.)
+              19.2 krishna vedula (PROFESSOR & DEAN EMERITUS FROM USA)
+               FOR MORE INFORMATION VISIT:https://sru.edu.in/about#advisory
+              
+      20 AWARDS AND RECOGNIZATION
+          All India 1st Rank among the Private colleges in Atal Ranking of Institutions on Innovation Achievements (ARIIA), an initiative by MHRD, Government of India
+          FOR MORE INFORMATION VISIT:https://sru.edu.in/about#awards-recogn
+      
+      21 HOLIDAYS LIST
+                  DOWNLOAD  THIS PDF FOR HOLIDAYS LIST ABOUT SRU :https://sru.edu.in/assets/pdf/2021GAD_RT2618.PDF
+      
+      22 EXAM BRANCH
+                  VISIT THIS LINK FOR MORE INFORMATION:https://sru.edu.in/exam-branch
+                  
+                  
+     23 ALUMINI
+              VISIT THIS LINK FOR MORE INFORMATION:https://sru.edu.in/alumni/
+     
+     
+     24.WEBLOGIN
+  
+                VISIT THIS LINK FOR MORE INFORMATION:   https://sru.edu.in/sruadmissions/
+                
+      25.COURSES
+          PROGRAMS / COURSES VISIT THIS \n\t\t\thttps://sru.edu.in/programs-2021  
+
+     26.PHD PROGRAMS
+              VISIT THIS LINK FOR MORE INFORMATION:   https://sru.edu.in/schools/phd 
+         
+              27.examfee|results website|EXAMFEE|RESULTS WEBSITE|RESULTS|results
+                                try to visit : https://examfee.in/
+              
+            28.quit
+                    Bye,take care.See you soon :),it was nice to talking to you,See you soon
+          
+          
+          
+                                                                                              
+          
+   
